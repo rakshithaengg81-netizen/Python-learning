@@ -1,0 +1,8 @@
+a=int(input("Enter a number 1:"))
+b=int(input("Enter a number 2:"))
+print("addition your 2 numbers:",a+b)
+print("Subtracting your 2 numbers:",a-b)
+print("Multiplying your 2 numbers:",a*b)
+print("Float value when you divide both:",a/b)
+print("Whole number value i.e., without decimal point:",a//b)
+print("Power of 2nd number to the 1st number:",a**b)
